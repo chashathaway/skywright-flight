@@ -1,0 +1,7 @@
+# Keep release archives and local noise out of ContentDB/git exports.
+*.zip export-ignore
+*.7z export-ignore
+*.tar export-ignore
+*.tar.gz export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore

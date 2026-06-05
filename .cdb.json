@@ -1,0 +1,18 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "type": "GAME",
+  "name": "skywright_flight",
+  "title": "Skywright Flight",
+  "short_description": "A standalone flight-survival game with trainer aircraft, runways, dogfighting, parachutes, crafting, and crash salvage.",
+  "dev_state": "BETA",
+  "ai_disclosure": "ASSISTED",
+  "tags": [
+    "survival",
+    "pvp",
+    "combat",
+    "vehicles",
+    "crafting"
+  ],
+  "license": "MIT",
+  "media_license": "Other (Free/Open)"
+}
