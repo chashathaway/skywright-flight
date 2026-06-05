@@ -7,6 +7,7 @@ Skywright Flight is packaged as a standalone Luanti game.
 - `game.conf` has title, description, author, and minimum Luanti version.
 - `.cdb.json` identifies the package as a game.
 - `.cdb.json` sets `license` to `MIT` and `media_license` to `Other (Free/Open)`.
+- `.cdb.json` includes the GitHub source repository URL.
 - `LICENSE.md` documents code licensing, mixed media licensing, and current attribution groups.
 - `CREDITS.md` gives author and upstream community attribution.
 - README describes gameplay, controls, commands, survival basics, and hosting notes.

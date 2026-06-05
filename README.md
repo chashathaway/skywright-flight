@@ -67,7 +67,6 @@ The flight model is server-side. High server lag will affect aircraft smoothness
 This folder has been prepared for ContentDB-style packaging, but public release still needs:
 
 - at least one current gameplay screenshot named `screenshot.png`
-- optional source repository URL
 
 Licensing has been added in `LICENSE.md`. Code is MIT. Media is listed as mixed free/open media in `.cdb.json` because the game includes original assets plus free/open Minetest Game and VoxeLibre/MineClone-family derived assets.
 
