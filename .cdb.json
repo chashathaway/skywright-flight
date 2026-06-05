@@ -5,14 +5,7 @@
   "title": "Skywright Flight",
   "short_description": "A standalone flight-survival game with trainer aircraft, runways, dogfighting, parachutes, crafting, and crash salvage.",
   "dev_state": "BETA",
-  "ai_disclosure": "ASSISTED",
-  "tags": [
-    "survival",
-    "pvp",
-    "combat",
-    "vehicles",
-    "crafting"
-  ],
+  "ai_disclosure": "GENERATED",
   "license": "MIT",
   "media_license": "Other (Free/Open)",
   "repo": "https://github.com/chashathaway/skywright-flight"
