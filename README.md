@@ -62,14 +62,6 @@ This game is still early, but playable. Expect tuning changes to aircraft physic
 
 The flight model is server-side. High server lag will affect aircraft smoothness, especially with many planes or missiles active.
 
-## ContentDB Status
-
-This folder has been prepared for ContentDB-style packaging, but public release still needs:
-
-- at least one current gameplay screenshot named `screenshot.png`
-
-Licensing has been added in `LICENSE.md`. Code is MIT. Media is listed as mixed free/open media in `.cdb.json` because the game includes original assets plus free/open Minetest Game and VoxeLibre/MineClone-family derived assets.
-
 ## License
 
 Skywright Flight is free/open content. Code and documentation are licensed under the MIT License. Media is documented as mixed free/open media, with original Skywright Flight media under `CC-BY-SA-4.0` and inherited free/open assets retaining their upstream licenses. See `LICENSE.md` and `CREDITS.md`.
