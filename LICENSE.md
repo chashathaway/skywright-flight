@@ -18,13 +18,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Media License Summary
 
-Skywright Flight media is licensed under a mix of free/open licenses:
+Skywright Flight media is distributed under Creative Commons Attribution-ShareAlike terms. The package-level media license selected on ContentDB is Creative Commons Attribution-ShareAlike 4.0 International (`CC-BY-SA-4.0`).
 
 - Original Skywright Flight media created for this project is licensed under Creative Commons Attribution-ShareAlike 4.0 International (`CC-BY-SA-4.0`), unless a more specific note below applies.
-- Minetest Game-derived media is licensed under Creative Commons Attribution-ShareAlike 3.0 Unported (`CC-BY-SA-3.0`).
+- Minetest Game-derived media originated under Creative Commons Attribution-ShareAlike 3.0 Unported (`CC-BY-SA-3.0`) and is credited below.
 - VoxeLibre / MineClone-family-derived media is licensed under Creative Commons Attribution-ShareAlike 4.0 International (`CC-BY-SA-4.0`).
 
-Because multiple compatible free/open media licenses are present, the ContentDB package metadata uses `Other (Free/Open)` for `media_license`.
+The ContentDB package metadata uses `CC-BY-SA-4.0` for `media_license` so the package has a concrete free/open media license selected in ContentDB.
 
 ## Current Media Attribution Notes
 
@@ -50,7 +50,7 @@ The following groups were created or adapted for Skywright Flight and are licens
 
 - Minetest Game media is distributed under `CC-BY-SA-3.0`; its code is under `LGPL-2.1-or-later`.
 - VoxeLibre, formerly MineClone2, lists code as `GPL-3.0-or-later` and media as `CC-BY-SA-4.0` on ContentDB.
-- ContentDB accepts package metadata fields named `license` and `media_license`, and accepts `Other (Free/Open)` as a license value.
+- ContentDB accepts package metadata fields named `license` and `media_license`; this package uses `MIT` for code and `CC-BY-SA-4.0` for media.
 
 ## Source Audit Note
 

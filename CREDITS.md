@@ -13,7 +13,8 @@ Skywright Flight includes original project assets plus assets derived from free/
 
 Current known upstream groups:
 
-- Minetest Game media: `CC-BY-SA-3.0`
+- ContentDB package media license: `CC-BY-SA-4.0`
+- Minetest Game media origin: `CC-BY-SA-3.0`
 - VoxeLibre / MineClone-family media: `CC-BY-SA-4.0`
 - Original Skywright Flight media: `CC-BY-SA-4.0`
 - Skywright Flight code and docs: `MIT`
